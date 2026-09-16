@@ -1,4 +1,4 @@
-SELECT * FROM programmers_point.emp;
+    SELECT * FROM programmers_point.emp;
 select * from emp;
 
 -- 1. Find employees earning more than average salary using CTE
@@ -72,3 +72,6 @@ WITH dept_total AS (
 SELECT d.department,
        d.total_salary
 FROM dept_total d;
+
+
+hello git i am prashnat kumar tripathi
